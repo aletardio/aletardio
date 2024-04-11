@@ -50,6 +50,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aletardio/aletardio/output/snake.svg" alt="Snake animation" />
-
 ###
